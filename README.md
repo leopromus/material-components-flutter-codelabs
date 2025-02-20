@@ -1,6 +1,6 @@
 # Codelab 1 - Material Components Basics with Flutter
 
-Welcome to **Codelab 1**, where you'll learn the basics of using **Material Components** in Flutter! This project is designed to help you understand how to build beautiful, responsive, and user-friendly interfaces using Flutter's Material Design widgets.
+Welcome to **Codelab 1**,  This project is designed to help you understand how to build beautiful, responsive, and user-friendly interfaces using Flutter's Material Design widgets.
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
