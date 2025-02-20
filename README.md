@@ -40,5 +40,5 @@ Before you begin, ensure you have the following installed:
 ## Setup Instructions
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/leopromus/codelab1-material-components-flutter.git
-   cd codelab1-material-components-flutter
+   git clone https://github.com/leopromus/material-components-flutter-codelabs.git
+   cd material-components-flutter-codelabs
