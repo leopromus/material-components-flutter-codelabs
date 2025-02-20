@@ -29,7 +29,8 @@ By the end of this codelab, you'll have a solid understanding of how to use thes
 ---
 
 ## Prerequisites
-Before you begin, ensure you have the following installed:
+Prerequisites installation:
+
 - **Flutter SDK**: [Install Flutter](https://flutter.dev/docs/get-started/install)
 - **Dart SDK**: Comes bundled with Flutter
 - **IDE**: [Android Studio](https://developer.android.com/studio) or [Visual Studio Code](https://code.visualstudio.com/) with the Flutter and Dart plugins
@@ -42,3 +43,13 @@ Before you begin, ensure you have the following installed:
    ```bash
    git clone https://github.com/leopromus/material-components-flutter-codelabs.git
    cd material-components-flutter-codelabs
+   
+   Install Dependencies:
+   
+        flutter pub get
+   
+   Run the App:
+   
+        flutter run
+   
+    ```
