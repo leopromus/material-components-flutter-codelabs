@@ -24,8 +24,6 @@ This project demonstrates the use of **Material Components** in Flutter, includi
 - **Dialogs**
 - **Navigation**
 
-By the end of this codelab, you'll have a solid understanding of how to use these components to create a modern, interactive user interface.
-
 ---
 
 ## Prerequisites
